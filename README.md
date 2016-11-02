@@ -1,6 +1,6 @@
 # wordLength
 
-This was a fun project that I did after taking Duke University's Java course url https://www.coursera.org/learn/java-programming-arrays-lists-data/ .  This is a fantastic course by the way and even if you are an advanced programmer there still might be some gems to pick up or review for Java Basics.
+This was a fun project that I did after taking Duke University's Java course url https://www.coursera.org/learn/java-programming-arrays-lists-data/ .  This is a fantastic course by the way and even if you are an advanced programmer there are still some gems to pick up or review for Java computer science basics.
 
 Key learning from this project is manipulating and using arrays, looping and conditional logic.
 
